@@ -1,0 +1,11 @@
+C:\Users\Osama A. Morad\AppData\Local\Temporary Projects\CS-CourseListTest\bin\Release\CS-CourseListTest.exe
+C:\Users\Osama A. Morad\AppData\Local\Temporary Projects\CS-CourseListTest\bin\Release\CS-CourseListTest.pdb
+C:\Users\Osama A. Morad\AppData\Local\Temporary Projects\CS-CourseListTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Osama A. Morad\AppData\Local\Temporary Projects\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.exe
+C:\Users\Osama A. Morad\AppData\Local\Temporary Projects\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.pdb
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\CS-CourseListTest\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.exe
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\CS-CourseListTest\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.pdb
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.exe
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.pdb
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Online Classes\2 DeVry Courses\Dev\2011\CIS 339 - Take 2\Me\Delivery Week7 Content\Practices\Week7 iLab Shells\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Release\CS-CourseListTest.exe
