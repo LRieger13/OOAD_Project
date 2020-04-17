@@ -6,7 +6,6 @@
         GetCourseByCourseIDTestWhenCourseDoesNotExist();
     }
 
-
     public static void GetCourseByCourseIDTestWhenCourseExists()
     {
 

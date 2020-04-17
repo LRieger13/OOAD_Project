@@ -7,10 +7,19 @@
         new Course ("CIS 150B", "C# Programming with labs", 4, "Follow-up to CIS 100", "CIS 100")
         };
 
-
-    public Course GetCourseByCourseID(string id)
+    public Course GetCourseByCourseID(string CourseID)
     {
-        // TODO - Add your code here
-        
+        // TODO - get course array compare user course id to see 
+        // if they match
+        Course[] classList = this.CourseArray;
+        // loop here over course list looking for the ID that was passed in. 
+        // IF the ID is not found look at Course LIst Test to decide what 'error' value to provide. 
+        // Otherwise when you find a match with the parameter CourseID you will return the course from the object. 
+        foreach (Course course in classList) {
+            if (course.getCourseID() == CourseID) {
+               return course;
+            }        
+        }
+        return null;
     }
 }
